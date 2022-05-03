@@ -1,5 +1,5 @@
 ## LU Factorization
-4/17/2022
+4/1/2022
 
 **INPUTS**
 * A = Coefficient Matrix
