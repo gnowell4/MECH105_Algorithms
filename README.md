@@ -2,7 +2,7 @@
 All MatLab Algorithms Coded in Mech 105
 
 ### Special Matrix Algorithm
-This algorithm creates a matrix given two input values which follow constraints highlighted in the 'Special Matrix Algorithm' directory.
+This algorithm creates a matrix given two input values which follow constraints highlighted in the "Special Matrix Algorithm" directory.
 
 ### Root Finding Algorithm
 This algorithm estimates the root of a function using the false position method.
